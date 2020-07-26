@@ -1,0 +1,34 @@
+
+body{display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    text-align: center;
+    background-image: url(images/B-how-to-do-employment-screening-Thumbnail-082517.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: dimgrey;
+} 
+#delet{
+background-color: rgb(213, 224, 47);
+}
+#edit{
+    background-color: rgb(213, 224, 47);
+}
+
+.main{
+    margin-top: 10em;
+}
+
+@media screen and  (min-width: 576px) { .main{width: 100%;} }
+@media screen and  (min-width: 768px) { .main{width: 100%;} }
+@media screen and  (min-width: 992px) { .main{width: 100%;} }
+@media screen and  (min-width: 1200px) { .main{width: 100%;} }
+#list{
+    text-decoration-color: ghostwhite;
+}
+.lis{
+    text-decoration-color: ghostwhite ;
+}
