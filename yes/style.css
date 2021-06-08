@@ -4,7 +4,7 @@ body{display: flex;
     flex-wrap: wrap;
     align-items: center;
     text-align: center;
-    background-image: url(images/B-how-to-do-employment-screening-Thumbnail-082517.png);
+    background-image:url(images/B-how-to-do-employment-screening-Thumbnail-082517.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
